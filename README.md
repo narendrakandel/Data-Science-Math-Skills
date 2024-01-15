@@ -1,4 +1,4 @@
-# Data Science Math Skills by DUKE UNIVERSITY
+# Data Science Math Skills by Duke University
 Completed on September 8, 2022
 
 ## Topics included:
